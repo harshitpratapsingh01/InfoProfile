@@ -1,0 +1,1 @@
+export {BaseEntity, baseEntity } from "./baseEntity"
